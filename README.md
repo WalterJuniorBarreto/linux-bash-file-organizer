@@ -10,7 +10,7 @@ Automated Bash script to organize files based on their extensions. Designed to k
 - **Case Insensitive:** Recognizes `.jpg` and `.JPG` as the same type.
 - **Self-Preservation:** The script excludes itself from being moved.
 
-## 🛠️Usage
+## Usage
 1. Clone the repository:
    ```bash
    git clone 
